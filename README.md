@@ -2,6 +2,8 @@
 
 A comprehensive sentiment analysis project implementing and comparing three transformer models (BERT, RoBERTa, and DistilBERT) for classifying airline customer tweets. Built for AUEB's AI/ML Data Factory course.
 
+You can view the notebook here [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg?logo=Jupyter)](https://nbviewer.org/github/FotopoulosGeorge/airline-tweets-transformers-aueb-df/blob/main/transformer_models.ipynb)
+
 ## Project Structure
 
 - `data_preprocessing.py`: Contains functions for data preprocessing and preparation
